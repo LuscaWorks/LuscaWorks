@@ -2,66 +2,39 @@
 
 # 👋 Olá, eu sou Lucas!
 
-### ☕ Desenvolvedor Backend Java em formação
+### 🛡️ Estudante de Análise e Desenvolvimento de Sistemas & Entusiasta de Cybersecurity
 
-Apaixonado por tecnologia, desenvolvimento backend e resolução de problemas.
+Apaixonado por tecnologia, segurança da informação, redes de computadores e sistemas operacionais.
 
-Atualmente estou estudando **Java**, **Spring Boot**, **SQL** e construindo projetos para desenvolver minhas habilidades.
+Atualmente focado em **Fundamentos de Redes**, **Linux (Kali Linux)**, **Cybersecurity (Cisco NetAcad)** e automação com **Python** e **Shell Script**.
 
 </div>
 
-
-
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-
 ## 📚 Atualmente estudando
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ MySQL
-- 🔐 APIs REST
-- 🐳 Docker
-- 🐧 Linux
-- 🌿 Git e GitHub
-
-
-## 💼 Projeto Principal
-
-### 💬 Discord Clone *(Em desenvolvimento)*
-
-Projeto inspirado no Discord para estudo de desenvolvimento backend.
-
-**Tecnologias**
-
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- MySQL
-- WebSocket
-
-**Funcionalidades planejadas**
-
-- Cadastro
-- Login
-- Criação de Servidores
-- Canais
-- Mensagens em tempo real
-- Controle de permissõesþ
+- 🌐 **Redes de Computadores**: Arquitetura TCP/IP, modelo OSI, endereçamento e protocolos (Cisco NetAcad)
+- 🔐 **Cybersecurity**: Fundamentos de segurança da informação, análise de vulnerabilidades e testes de segurança
+- 🐧 **Linux & Terminal**: Kali Linux, administração de sistemas, utilitários CLI e scripts em Bash
+- 🐍 **Python**: Scripting para automação, ferramentas de terminal e análise de dados
+- 🗄️ **Banco de Dados**: Modelagem e consultas relacionais (SQL)
+- 🌿 **Git & GitHub**: Controle de versão, organização e documentação de projetos
 
 ## 🔥 GitHub Streak
 
@@ -71,13 +44,6 @@ Projeto inspirado no Discord para estudo de desenvolvimento backend.
 
 </div>
 
-
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e evoluir constantemente através da construção de projetos reais.
-
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://github.com/LuscaWorks
-- 📧 Email: *lucassantosp777@gmail.com*
+Desenvolver uma base sólida em infraestrutura, redes e segurança da informação, criando projetos práticos, laboratórios e evoluindo constantemente na área de Cybersecurity.
